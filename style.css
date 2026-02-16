@@ -12,10 +12,10 @@ body {
   background: #ffffff;
 }
 .container {
-  max-width: 1420px !important;
-  width: 100% !important;
-  margin: 0 auto !important;
-  padding: 0 20px !important;
+  max-width: 1420px;
+  width: 100% ;
+  margin: 0 auto;
+  padding: 0 20px;
 }
 .header {
   background: #000000;
@@ -242,4 +242,5 @@ hr{
     display: none;
   }
 }
+
 
