@@ -1,3 +1,3 @@
 # Blanko
 
-[Passlib](https://passlib.readthedocs.io/)
+[Blanko-link](https://rasuliyonn.github.io/Blanko/)
